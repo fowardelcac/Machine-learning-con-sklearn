@@ -3,7 +3,7 @@ Implementaciones didacticas de modelos de machine learning utilzando sklearn.
 
 ## Carpetas
 Se encuentra dividido en distintas secciones:
-### Aprendizaje supervizado:
+### Aprendizaje supervisado:
    - Clasificacion
         - Regresion Logistica  
         - Arbol de desicion
@@ -14,7 +14,7 @@ Se encuentra dividido en distintas secciones:
         - KNN
         - SVM
    - Bagging
-### Aprendizaje no supervizado:
+### Aprendizaje no supervisado:
    - Agrupamiento
        - K-means
        - DBSCAN
