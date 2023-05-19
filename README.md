@@ -17,11 +17,13 @@ Se encuentra dividido en distintas secciones:
 ### Aprendizaje no supervisado:
    - Agrupamiento
        - K-means
-       - DBSCAN
+   - Reducccion dimensionalidad
+      - PCA    
 
 ### Data split:
    - Train/Test split
    - Validacion cruzada
+   - Stratify data
 ### Grid search
    - GridSearchCV
    - RandomizedSearchCV
