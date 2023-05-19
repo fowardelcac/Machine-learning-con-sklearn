@@ -27,3 +27,5 @@ Se encuentra dividido en distintas secciones:
 ### Grid search
    - GridSearchCV
    - RandomizedSearchCV
+
+### PDF teorico 
